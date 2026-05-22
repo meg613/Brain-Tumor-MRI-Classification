@@ -1,9 +1,5 @@
 # Brain-Tumor-MRI-Classification
-Brain tumor MRI classification using deep learning and transfer learning with ResNet18 in PyTorch.
-
-# Brain Tumor MRI Classification using Deep Learning
-
-This project uses deep learning and transfer learning techniques to classify brain MRI images into different tumor categories using PyTorch and ResNet18.
+Brain tumor MRI classification using deep learning and transfer learning to classify the brain MRI images with ResNet18 in PyTorch.
 
 ## Features
 - MRI image classification
